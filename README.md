@@ -1,4 +1,4 @@
 🚧 This page is currently under construction 🚧
 
 Meanwhile, enjoy this picture of my cat Fibonacci:
-![fibo in a box](/rsc/fibo_box.jpg =100x20)
+![fibo in a box](/rsc/fibo_box.jpg){ width=20% }
