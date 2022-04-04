@@ -2,4 +2,4 @@
 
 Meanwhile, enjoy this picture of my cat Fibonacci:
 
-<img src="rsc/fibo_box.jpg" width=20% height=20%>
+<img src="assets/images/fibo_box.jpg" width=20% height=20%>
