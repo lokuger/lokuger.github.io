@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Lorenz Kuger"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "PhD student applied mathematics, FAU Erlangen-Nürnberg" # site tagline that appears below site title in masthead
 name                     : "Lorenz Kuger"
 description              : "PhD student applied mathematics"
 url                      : https://lokuger.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -104,43 +104,37 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Lorenz Kuger"
+  avatar           : /assets/images/logovienna.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "PhD student in applied mathematics"
+  location         : "Erlangen, Germany"
+  email            : lorenz.kuger@fau.de
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:lorenz.kuger@fau.de"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "lorenzkuger.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "https://twitter.com/lorenz_kuger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://github.com/lokuger"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: https://twitter.com/lorenz_kuger
+      url: "https://twitter.com/lorenz_kuger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/lokuger
+      url: "https://github.com/lokuger"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
-      url: https://www.researchgate.net/profile/Lorenz-Kuger
+      url: "https://www.researchgate.net/profile/Lorenz-Kuger"
 
 # Reading Files
 include:
