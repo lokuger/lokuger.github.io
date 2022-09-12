@@ -1,8 +1,8 @@
 # main links
 main:
   - title: "Research"
-    url: /research.md
+    url: /research/
   - title: "CV"
-    url: /cv.md
+    url: /cv/
   - title: "Publications"
-    url: /publications.md
+    url: /publications/
