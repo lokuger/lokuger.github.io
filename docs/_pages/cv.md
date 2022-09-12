@@ -1,5 +1,7 @@
-___
-permalink : "/cv/"
-layout    : single
-___
-This is my CV
+---
+permalink			: /cv/
+title				: "CV"
+layout 			: single
+author_profile	: true
+---
+This will be my CV
