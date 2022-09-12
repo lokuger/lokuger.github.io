@@ -21,8 +21,9 @@ title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lorenz Kuger"
 description              : "Lorenz Kuger - personal homepage"
+domain			 : "lokuger.github.io"
 url                      : "https://lokuger.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lokuger/lokuger.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image - comment Lorenz: This is a default image for posts
 logo                     : # "/assets/images/logo.png" path of logo image to display in the masthead
