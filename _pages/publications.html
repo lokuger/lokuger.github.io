@@ -1,0 +1,30 @@
+---
+title				: Publications
+layout				: single
+permalink			: /publications/
+classes			: wide
+author_profile	: true
+---
+
+{% assign publications = site.publications | sort: "year" | reverse %}
+{% for pub in publications %}
+<div class="pubitem">
+    <p>
+    {{ pub.authors }}, {{ pub.year }}.
+    <i>{{ pub.title }}</i>.
+    {{ pub.journal }}.
+    <script>
+        var print = "{{pub.doi}}";
+        var preprint = "{{pub.preprint}}";
+        if (preprint.length > 0){
+            preprint = "<a href=\"{{pub.preprint}}\">[preprint]</a>";
+            document.write(preprint)
+        }
+        if (print.length > 0){
+            print = "<a href=\"{{pub.doi}}\">[print]</a>";
+            document.write(print)
+        }
+    </script>
+    </p>
+</div>
+{% endfor %}
