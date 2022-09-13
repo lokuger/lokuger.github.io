@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 
-# gem "jekyll", "~> 4.2.2"
-gem "github-pages", "~> 227", group: :jekyll_plugins
-gem "minimal-mistakes-jekyll"
-# ensures that 'bundle exec Jekyll serve' works
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
+
+# ensures that 'bundle exec Jekyll serve' works locally 
 gem "webrick"
-gem "jekyll-umlauts"
