@@ -6,11 +6,11 @@ classes			: wide
 author_profile	: true
 ---
 
-## Physical modelling of imaging systems
-I have worked on the modelling of different imaging modalities, including CT and MRI, but also less known setups like Compton scattering tomography and Compton cameras. In absence of training data, the successful solution of an inverse problem usually boils down to a careful translation of physical effects into a mathematical forward model and further into efficient code.
+## Solution of Imaging Inverse Problems
+I am interested in both model-based and data-driven solutions of usually large-scale imaging inverse problems. Depending on the application, this includes the analysis of variational methods, PDEs, neural networks and efficient optimization algorithms.
 
-## Image reconstruction methods
-I am interested in both model-based and data-driven solutions of usually large-scale imaging inverse problems. Depending on the application, this includes variational methods, PDEs, neural networks and efficient optimization algorithms.
+## Uncertainty Quantification in Inverse Problems
+Statistical formulations of inverse problems allow the computation of solutions via point estimates, but also the quantification of uncertainty in the solution. I am interested in the construction and application of MCMC sampling schemes that are suited for high-dimensional inverse problems and related Bayesian computation techniques. This involves computational aspects as well as the analysis of SPDEs like Langevin diffusion and the construction of discretization schemes (Langevin Monte Carlo algorithms) and, more generally, analyzing gradient flows of distance metrics in measure spaces.
 
-## Sampling and inference in inverse problems
-More recently, I became interested in the application of MCMC sampling schemes to inverse problems. This includes the analysis of SPDEs like Langevin diffusion and the construction of highly efficient discretization schemes (Langevin Monte Carlo algorithms).
+## Physical Modelling of Imaging Systems
+I work on mathematical tasks arising in imaging modalities, including for example CT and MRI, but also less known setups like Compton scattering tomography and Compton cameras. In absence of training data, the successful solution of an inverse problem relies on a careful translation of physical principles into a mathematical forward model and further into efficient code. 
