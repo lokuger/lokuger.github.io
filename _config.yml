@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Lorenz Kuger"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image
-  bio              : "PhD student in applied mathematics, FAU Erlangen-Nürnberg"
-  location         : "Erlangen, Germany"
-  email            : lorenz.kuger@fau.de
+  bio              : "PhD student in applied mathematics, FAU Erlangen-Nürnberg & DESY Hamburg"
+  location         : "Hamburg, Germany"
+  email            : lorenz.kuger@desy.de
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
