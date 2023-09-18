@@ -13,11 +13,11 @@ author_profile	    : true
 {% for pre in preprints %}
 <div class="pubitem">
     <p>
-        {{ pub.authors }}, {{ pub.year }}.
-        <i>{{ pub.title }}</i>.
-        {{ pub.journal }}.
+        {{ pre.authors }}, {{ pre.year }}.
+        <i>{{ pre.title }}</i>.
+        {{ pre.journal }}.
         <script>
-            var preprint_link = "{{ pub.preprintlink }}";
+            var preprint_link = "{{ pre.preprintlink }}";
             if (preprint_link.length > 0){
                 document.write("<a href=" + preprint_link +">[preprint]</a>")
             }
