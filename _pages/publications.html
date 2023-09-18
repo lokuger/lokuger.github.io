@@ -36,7 +36,7 @@ author_profile	    : true
         <script>
             var doi = "{{ pub.doi }}";
             if (doi.length > 0){
-                document.write(" <a href=https://doi.org/" + doi + ">doi:\"{{ pub.doi }}\"</a>. ");
+                document.write(" <a href=https://doi.org/" + doi + ">doi:" + doi + "</a>. ");
             }
             var print_link = "{{ pub.printlink }}";
             var preprint_link = "{{ pub.preprintlink }}";
