@@ -10,21 +10,26 @@ author_profile	: true
 {% for pub in publications %}
 <div class="pubitem">
     <p>
-    {{ pub.authors }}, {{ pub.year }}.
-    <i>{{ pub.title }}</i>.
-    {{ pub.journal }}.
-    <script>
-        var print = "{{pub.doi}}";
-        var preprint = "{{pub.preprint}}";
-        if (preprint.length > 0){
-            preprint = "<a href=\"{{pub.preprint}}\">[preprint]</a>";
-            document.write(preprint)
-        }
-        if (print.length > 0){
-            print = "<a href=\"{{pub.doi}}\">[print]</a>";
-            document.write(print)
-        }
-    </script>
+        <b>{{ pub.year }}</b>
+        <pre>&#9;</pre>
+        {{ pub.authors }}, {{ pub.year }}.
+        <i>{{ pub.title }}</i>.
+        {{ pub.journal }}.
+        <script>
+            var print = "{{ pub.doi }}";
+            var preprint = "{{ pub.preprint }}";
+            var status = "{{ pub.status }}"
+            if (status === "published") {
+                if (preprint.length > 0){
+                    preprint = "<a href=\"{{pub.preprint}}\">[preprint]</a>";
+                    document.write(preprint)
+                }
+                if (print.length > 0){
+                    print = "<a href=\"{{pub.doi}}\">[print]</a>";
+                    document.write(print)
+                }
+            }
+        </script>
     </p>
 </div>
 {% endfor %}
