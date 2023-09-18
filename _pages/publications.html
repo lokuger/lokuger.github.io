@@ -2,32 +2,49 @@
 title				: Publications
 layout				: single
 permalink			: /publications/
-classes			: wide
-author_profile	: true
+classes			    : wide
+author_profile	    : true
 ---
 
-{% assign publications = site.publications | sort: "year" | reverse %}
-{% for pub in publications %}
+{% assign published = site.publications | where:"status","published" | sort: "year" | reverse %}
+{% assign preprints = site.publications | where:"status","preprint" | sort: "year" | reverse %}
+
+<h2>Preprints</h2>
+{% for pre in preprints %}
 <div class="pubitem">
     <p>
-        <b>{{ pub.year }}</b>
-        <pre>&#9;</pre>
         {{ pub.authors }}, {{ pub.year }}.
         <i>{{ pub.title }}</i>.
         {{ pub.journal }}.
         <script>
-            var print = "{{ pub.doi }}";
-            var preprint = "{{ pub.preprint }}";
-            var status = "{{ pub.status }}"
-            if (status === "published") {
-                if (preprint.length > 0){
-                    preprint = "<a href=\"{{pub.preprint}}\">[preprint]</a>";
-                    document.write(preprint)
-                }
-                if (print.length > 0){
-                    print = "<a href=\"{{pub.doi}}\">[print]</a>";
-                    document.write(print)
-                }
+            var preprint_link = "{{ pub.preprintlink }}";
+            if (preprint_link.length > 0){
+                document.write("<a href=" + preprint_link +">[preprint]</a>")
+            }
+        </script>
+    </p>
+</div>
+{% endfor %}
+
+<h2>Published</h2>
+{% for pub in published %}
+<div class="pubitem">
+    <p>
+        {{ pub.authors }}, {{ pub.year }}.
+        <i>{{ pub.title }}</i>.
+        {{ pub.journal }}.
+        <script>
+            var doi = "{{ pub.doi }}";
+            if (doi.length > 0){
+                document.write(" <a href=https://doi.org/" + doi + ">doi:\"{{ pub.doi }}\"</a>. ");
+            }
+            var print_link = "{{ pub.printlink }}";
+            var preprint_link = "{{ pub.preprintlink }}";
+            if (preprint_link.length > 0){
+                document.write("<a href=" + preprint_link +">[preprint]</a>")
+            }
+            if (print_link.length > 0){
+                document.write("<a href=" + print_link +">[print]</a>")
             }
         </script>
     </p>
