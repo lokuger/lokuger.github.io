@@ -81,16 +81,16 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : lorenz_kuger
-og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
+#twitter:
+#  username               : lorenz_kuger
+#og_image                 : "/assets/images/logo.png" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : Person # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://twitter.com/lorenz_kuger"
+#    - "https://twitter.com/lorenz_kuger"
     - "https://www.linkedin.com/in/lorenz-kuger-565b84239"
 
 # Analytics
@@ -112,28 +112,34 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://lokuger.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lorenz_kuger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lokuger"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Lorenz-Kuger"
+    - label: "Google Scholar"
+      icon: "fa fa-fw fa-academic-hat"
+      url: "https://scholar.google.com/citations?user=G1koaNIAAAAJ&hl=de"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/lorenz_kuger"
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/lorenz_kuger"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lokuger"
     - label: "ResearchGate"
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Lorenz-Kuger"
+    - label: "Google Scholar"
+      icon: "fa fa-fw fa-academic-hat"
+      url: "https://scholar.google.com/citations?user=G1koaNIAAAAJ&hl=de"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/lorenz_kuger"
 
 
 # Reading Files
