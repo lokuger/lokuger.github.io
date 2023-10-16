@@ -26,7 +26,7 @@ url                      : "https://lokuger.github.io" # the base hostname & pro
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lokuger/lokuger.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/teaser.png" # path of fallback teaser image - comment Lorenz: This is a default image for posts
-logo                     : "/assets/images/fibo_couch.png" # "/assets/images/logo.png" path of logo image to display in the masthead
+logo                     : # "/assets/images/logo.png" path of logo image to display in the masthead
 masthead_title           : "Home" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
