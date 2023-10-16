@@ -135,7 +135,7 @@ footer:
       icon: "fab fa-fw fa-researchgate"
       url: "https://www.researchgate.net/profile/Lorenz-Kuger"
     - label: "Google Scholar"
-      icon: "fa fa-fw fa-academic-hat"
+      icon: "fa fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=G1koaNIAAAAJ&hl=de"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
