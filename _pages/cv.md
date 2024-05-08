@@ -8,9 +8,9 @@ author_profile	: true
 ## Education
 
 Since 2023 <img width=50/> | **Applied mathematics PhD candidate** at Universität Hamburg, based at DESY Hamburg, under the supervision of [Martin Burger](https://en.www.math.fau.de/angewandte-mathematik-1/mitarbeiter/prof-dr-martin-burger/).<br>I am working on imaging setups with Compton cameras (in-situ gamma spectrometry) in nuclear decommissioning, including mathematical modelling, image reconstruction algorithms, uncertainty quantification and software development.
-2021 - 2023 | **Applied mathematics PhD studies** at Friedrich-Alexander Universität Erlangen-Nürnberg, before our group moved to Hamburg in April 2023.
-2020 - 2021 | **MASt in Applied Mathematics** (Part III), University of Cambridge, UK<br>Graduated with distinction.
-2018 - 2020 | **M.Sc. Mathematics**, University of Würzburg, Germany. Graduated with distinction, awarded Otto-Volk medal for outstanding results.
+2021 - 2023 | **Applied mathematics PhD studies** at Friedrich-Alexander Universität Erlangen-Nürnberg.<br>Our group moved to Hamburg in April 2023, where I will finish my PhD at UHH.
+2020 - 2021 | **MASt in Applied Mathematics** (Part III), University of Cambridge, UK.<br>Graduated with distinction.
+2018 - 2020 | **M.Sc. Mathematics**, University of Würzburg, Germany.<br>Graduated with distinction, awarded Otto-Volk medal for outstanding results.
 2016 - 2018 | **B.Sc. Mathematics**, University of Würzburg, Germany. Graduated with distinction.
 
 ## Research Visits
