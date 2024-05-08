@@ -18,7 +18,7 @@ Since 2023 <img width=50/> | **Applied mathematics PhD candidate** at Universit√
 May - July 2022 | University of Cambridge (2 months), hosted by [Prof. Carola-Bibane Sch√∂nlieb & Cambridge Image Analysis](https://www.damtp.cam.ac.uk/research/cia/cambridge-image-analysis) and [Mathworks](https://mathworks.com/)
 March 2023 | University of Bath (1 week), hosted by [Prof. Matthias J. Ehrhardt](https://mehrhardt.github.io/)
 November 2023 | Technical University of Denmark (1 week), hosted by the [Prof. Yiqiu Dong & the CUQI project](https://sites.dtu.dk/cuqi)
-May 2023 | California Institute of Technology (1 month), hosted by [Prof. Franca Hoffmann](https://francahoffmann.wordpress.com/)
+May 2024 | California Institute of Technology (1 month), hosted by [Prof. Franca Hoffmann](https://francahoffmann.wordpress.com/)
 
 ## Teaching
 
