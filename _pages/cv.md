@@ -28,6 +28,7 @@ May 2024 | California Institute of Technology (1 month), hosted by [Prof. Franca
 
 ## Fellowships & Awards
 
+2024 | SIAM Student Travel Award for the SIAM Conference on Imaging Sciences 2024, Atlanta, GA, USA.
 2020 - 2021 | Student scholarship [German Academic Exchange Service](https://www.daad.org/en) (DAAD), funding my MASt in Cambridge.
 2020 | Award for outstanding results in M.Sc. Mathematics, University of Würzburg
 2016 - 2021 | Student scholarship, [German Academic Scholarship Foundation](https://www.studienstiftung.de/en/) (Studienstiftung des deutschen Volkes)
