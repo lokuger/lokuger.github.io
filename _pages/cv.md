@@ -11,7 +11,7 @@ Since 2023 <img width=50/> | **Applied mathematics PhD candidate** at Universit�
 2021 - 2023 | **Applied mathematics PhD studies** at Friedrich-Alexander Universit채t Erlangen-N체rnberg.<br>Our group moved to Hamburg in April 2023, where I will finish my PhD at UHH.
 2020 - 2021 | **MASt in Applied Mathematics** (Part III), University of Cambridge, UK.<br>Graduated with distinction.
 2018 - 2020 | **M.Sc. Mathematics**, University of W체rzburg, Germany.<br>Graduated with distinction, awarded Otto-Volk medal for outstanding results.
-2016 - 2018 | **B.Sc. Mathematics**, University of W체rzburg, Germany. Graduated with distinction.
+2016 - 2018 | **B.Sc. Mathematics**, University of W체rzburg, Germany.<br>Graduated with distinction.
 
 ## Research Visits
 
