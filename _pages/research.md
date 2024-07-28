@@ -17,4 +17,4 @@ I work on mathematical tasks arising in imaging modalities, including for exampl
 
 ## Miscellaneous
 Blog articles on recent applied mathematics research:\
-Being interested in the wide variety of applications of mathematics in sciences, technology and society, I sometimes write blog articles on recent research papers in the journal *European Journal of Applied Mathematics (EJAM)* by Cambridge University Press. Some of my recent articles featuring new papers in EJAM can be found here: https://www.cambridge.org/core/blog/tag/ejam/
+Being interested in the wide variety of applications of mathematics in sciences, technology and society, I sometimes write blog articles on recent research papers in the journal *European Journal of Applied Mathematics (EJAM)* by Cambridge University Press. Some of my recent articles featuring new papers can be found on the [EJAM blog](https://www.cambridge.org/core/blog/tag/ejam/).
