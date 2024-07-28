@@ -14,6 +14,7 @@ Since 2023 <img width=50/> | **Applied mathematics PhD candidate**, *Universitä
 2016 - 2018 | **B.Sc. Mathematics**, *Julius-Maximilians-Universität Würzburg, Germany*.<br>Graduated with distinction.
 
 ## Positions
+
 Jun 2024 - Sep 2024 | **Software Engineering Intern**, *Apple Inc., Cambridge, UK*.<br>16 week internship in Apple's Camera & Photos division. I work on development of efficient image processing algorithms.
 Since Jul 2021 | **Research Assistant**, *Friedrich-Alexander Universität Erlangen-Nürnberg, Germany*.<br>Position accompanying my PhD studies -- I am part of a research project on developing Compton cameras for in-situ gamma spectrometry in nuclear decommissioning.
 Mar 2019 - Feb 2020 | **Student Research Assistant**, *Julius-Maximilians-Universität Würzburg, Germany*.<br>Research on Compton scattering tomography for potential medical and industrial applications.
