@@ -7,11 +7,16 @@ author_profile	: true
 ---
 ## Education
 
-Since 2023 <img width=50/> | **Applied mathematics PhD candidate** at Universität Hamburg, based at DESY Hamburg, under the supervision of [Martin Burger](https://en.www.math.fau.de/angewandte-mathematik-1/mitarbeiter/prof-dr-martin-burger/).<br>I am working on imaging setups with Compton cameras (in-situ gamma spectrometry) in nuclear decommissioning, including mathematical modelling, image reconstruction algorithms, uncertainty quantification and software development.
-2021 - 2023 | **Applied mathematics PhD studies** at Friedrich-Alexander Universität Erlangen-Nürnberg.<br>Our group moved to Hamburg in April 2023, where I will finish my PhD at UHH.
-2020 - 2021 | **MASt in Applied Mathematics** (Part III), University of Cambridge, UK.<br>Graduated with distinction.
-2018 - 2020 | **M.Sc. Mathematics**, University of Würzburg, Germany.<br>Graduated with distinction, awarded Otto-Volk medal for outstanding results.
-2016 - 2018 | **B.Sc. Mathematics**, University of Würzburg, Germany.<br>Graduated with distinction.
+Since 2023 <img width=50/> | **Applied mathematics PhD candidate**, *Universität Hamburg, Germany*, based at DESY Hamburg, under the supervision of [Martin Burger](https://helmholtz-imaging.de/person/prof-dr-martin-burger/).<br>I am working on mathematical modelling, solution algorithms and uncertainty quantification for inverse imaging problems, with a particular application in gamma emission imaging for nuclear decommissioning.
+2021 - 2023 | **Applied mathematics PhD studies**, *Friedrich-Alexander Universität Erlangen-Nürnberg, Germany*.<br>Our group moved to Hamburg in April 2023, where I will finish my PhD at UHH.
+2020 - 2021 | **MASt in Applied Mathematics** (Part III), *University of Cambridge, UK*.<br>Graduated with distinction.
+2018 - 2020 | **M.Sc. Mathematics**, *Julius-Maximilians-Universität Würzburg, Germany*.<br>Graduated with distinction, awarded Otto-Volk medal for outstanding results.
+2016 - 2018 | **B.Sc. Mathematics**, *Julius-Maximilians-Universität Würzburg, Germany*.<br>Graduated with distinction.
+
+## Positions
+Jun 2024 - Sep 2024 | **Software Engineering Intern**, *Apple Inc., Cambridge, UK*.<br>16 week internship in Apple's Camera & Photos division. I work on development of efficient image processing algorithms.
+Since Jul 2021 | **Research Assistant**, *Friedrich-Alexander Universität Erlangen-Nürnberg, Germany*.<br>Position accompanying my PhD studies -- I am part of a research project on developing Compton cameras for in-situ gamma spectrometry in nuclear decommissioning.
+Mar 2019 - Feb 2020 | **Student Research Assistant**, *Julius-Maximilians-Universität Würzburg, Germany*.<br>Research on Compton scattering tomography for potential medical and industrial applications.
 
 ## Research Visits
 
@@ -22,8 +27,8 @@ May - Jul 2022 | University of Cambridge (2 months), hosted by [Prof. Carola-Bib
 
 ## Teaching
 
-2022 (Winter) | Lecture assistant **Inverse Problems**, FAU
-2021 (Winter) | Lecture assistant **Numerical Mathematics**, FAU
+2022 (Winter) | Lecture assistant **Inverse Problems**, FAU Erlangen-Nürnberg
+2021 (Winter) | Lecture assistant **Numerical Mathematics**, FAU Erlangen-Nürnberg
 2017 - 2020 | Student tutor in undergrad courses (Analysis, Numerical Mathematics, Algebra etc.)
 
 ## Fellowships & Awards
