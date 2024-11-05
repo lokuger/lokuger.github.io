@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Coupling Analysis of the Asymptotic Behaviour of a Primal-Dual Langevin Algorithm
+title: Analysis of Primal-Dual Langevin Algorithms
 authors: Martin Burger, Matthias J. Ehrhardt, Lorenz Kuger, Lukas Weigand
 journal: preprint
 year: 2024
