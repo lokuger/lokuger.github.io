@@ -13,7 +13,7 @@ I am interested in both model-based and data-driven solutions of usually large-s
 In an inverse problem, we need to be able to quantify the uncertainty in a reconstructed solution. Bayes' law provides a framework for that: we want to describe the posterior distribution. Accurately sampling from the posterior is notoriously hard in high dimensional applications. I am interested in sampling schemes that efficiently solve high-dimensional inverse problems. The analysis of Langevin Monte Carlo algorithms and their underlying SDEs has been a central interest of mine. Relatedly, for inverse problems with available training data I recently started working with other generative models based on score-based diffusion.
 
 ## Physical Modelling of Imaging Systems
-I work on mathematical tasks arising in imaging modalities, including for example CT and MRI, but also less known setups like Compton scattering tomography and Compton cameras. In absence of training data, the successful solution of an inverse problem relies on a careful translation of physical principles into a mathematical forward model and further into efficient code. 
+I work on mathematical tasks arising in imaging modalities, including for example CT and MRI, but also less known setups like Compton scattering tomography, Compton cameras or phase retrieval. In absence of training data, the successful solution of an inverse problem relies on a careful translation of physical principles into a mathematical forward model and further into efficient code. 
 
 ## Miscellaneous
 Blog articles on recent applied mathematics research:\
