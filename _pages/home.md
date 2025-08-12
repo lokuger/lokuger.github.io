@@ -5,9 +5,6 @@ classes			: wide
 title 				: Home
 author_profile 	: true
 ---
-I am a PhD student in applied mathematics at [University of Hamburg](https://www.math.uni-hamburg.de/en.html) and [DESY Hamburg](https://www.desy.de/index_eng.html) supervised by [Martin Burger](https://helmholtz-imaging.de/person/prof-dr-martin-burger/). I am based at DESY, where I am a member of the Computational Imaging group and as such affiliated with [DESY Photon Science](https://photon-science.desy.de/) and [Helmholtz Imaging](https://helmholtz-imaging.de/).
+Since June 2025, I am an ML Research Engineer at Apple, working on next-gen algorithms for *Camera* and *Photos*. Before that, I studied towards a PhD in Hamburg and Erlangen, Germany, with longer research stays for collaboration at the University of Cambridge, UK and California Institute of Technology, USA.
 
-My work is concerned with mathematical, statistical and ML solutions of inverse problems, in particular image reconstruction problems. I have worked with multiple emission and transmission imaging modalities in various fields such as nuclear dismantling, biological and single-particle imaging or medical applications. Usually, my work entails tasks such as
-- Designing ML algorithms for tasks like optimization, uncertainty quantification or inference
-- Efficient software implementation of large scale imaging models and solution algorithms
-- Modelling underlying physics, biology and signal processing
+I have worked with photography, but also more scientific problems like emission and transmission tomography, contamination imaging in nuclear dismantling and single-particle imaging for biological macromolecules. I am excited about all math, statistics and physics (obviously), but enjoy chatting about god and the world (a great German saying, I think). If I'm not programming, you will likely find me running around Cambridge, UK, rowing on the Cam, or hiking up some mountain.
