@@ -7,3 +7,37 @@
 $footer-background-color : #a3c1ad;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+/* CV date/description rows (used on the CV page in place of a markdown table) */
+.cv-list {
+  margin-bottom: 2em;
+}
+
+.cv-entry {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25em 1.5em;
+  padding: 0.75em 0;
+  border-top: 1px solid $border-color;
+
+  &:first-child {
+    border-top: none;
+  }
+}
+
+.cv-date {
+  flex: 0 0 11em;
+  font-weight: 600;
+  color: $muted-text-color;
+}
+
+.cv-desc {
+  flex: 1 1 300px;
+  min-width: 0;
+}
+
+@media (max-width: $small) {
+  .cv-date {
+    flex-basis: 100%;
+  }
+}
