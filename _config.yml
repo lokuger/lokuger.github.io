@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Lorenz Kuger"
   avatar           : "/assets/images/bio-photo.png" # path of avatar image
-  bio              : "PhD student in applied mathematics, University of Hamburg & DESY Hamburg"
-  location         : "Hamburg, Germany"
-  email            : lorenz.kuger@desy.de
+  bio              : "ML Research Engineer, Apple"
+  location         : "Cambridge, UK"
+  email            : mail@lorenzkuger.de
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

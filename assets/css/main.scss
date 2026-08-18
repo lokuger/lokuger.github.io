@@ -41,3 +41,20 @@ $footer-background-color : #a3c1ad;
     flex-basis: 100%;
   }
 }
+
+/* Publication list entries (publications page) */
+.pubitem {
+  max-width: 46em;
+  font-size: 0.8em;
+  padding: 0.9em 0;
+
+  // divider between consecutive entries only, not under the section heading
+  & + .pubitem {
+    border-top: 1px solid $border-color;
+  }
+
+  p {
+    font-size: inherit;
+    margin: 0;
+  }
+}
