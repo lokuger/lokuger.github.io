@@ -63,7 +63,7 @@ author_profile	: true
 <div class="cv-entry">
 <div class="cv-date">Jun 2024 - Sep 2024</div>
 <div class="cv-desc" markdown="1">
-**Software Engineering Intern**, *Apple Inc., Cambridge, UK*.<br>16 week internship in Apple's Camera & Photos division. I work on development of efficient image processing algorithms.
+**Software Engineering Intern**, *Apple Inc., Cambridge, UK*.<br>16 week internship in Apple's Camera & Photos, working on real-time image processing algorithms.
 </div>
 </div>
 <div class="cv-entry">
