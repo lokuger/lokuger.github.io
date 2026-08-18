@@ -23,7 +23,7 @@ author_profile	: true
 <div class="cv-entry">
 <div class="cv-date">Jul 2021 - Dec 2024</div>
 <div class="cv-desc" markdown="1">
-**Research Assistant**, *Friedrich-Alexander Universität Erlangen-Nürnberg, Germany*.<br>Position accompanying my PhD studies, covering mathematical modeling, optimization and uncertainty quantification for inverse imaging problems, including generative approaches such as diffusion models and Langevin sampling. Applied focus: gamma-ray imaging for nuclear decommissioning.
+**Research Assistant**, *Friedrich-Alexander Universität Erlangen-Nürnberg, Germany*.<br>Position accompanying my PhD studies, covering mathematical modeling, optimization and uncertainty quantification for inverse imaging problems. This included generative approaches such as diffusion models and Langevin sampling. Applied focus: gamma-ray imaging for nuclear decommissioning.
 </div>
 </div>
 </div>
