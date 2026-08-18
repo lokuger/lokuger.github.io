@@ -7,6 +7,7 @@ author_profile	    : true
 ---
 
 {% assign published = site.publications | where:"status","published" | sort: "year" | reverse %}
+{% assign inpress = site.publications | where:"status","in press" | sort: "year" | reverse %}
 {% assign preprints = site.publications | where:"status","preprint" | sort: "year" | reverse %}
 
 <h2>Preprints</h2>
@@ -17,6 +18,20 @@ author_profile	    : true
         <i>{{ pre.title }}</i>.
         {{ pre.journal }}.
         {% if pre.preprintlink %}<a href="{{ pre.preprintlink }}">[preprint]</a>{% endif %}
+    </p>
+</div>
+{% endfor %}
+
+<h2>In Press</h2>
+{% for ip in inpress %}
+<div class="pubitem">
+    <p>
+        {{ ip.authors }}, {{ ip.year }}.
+        <i>{{ ip.title }}</i>.
+        {{ ip.journal }}, in press.
+        {% if ip.doi %} <a href="https://doi.org/{{ ip.doi }}">doi:{{ ip.doi }}</a>. {% endif %}
+        {% if ip.preprintlink %}<a href="{{ ip.preprintlink }}">[preprint]</a>{% endif %}
+        {% if ip.printlink %}<a href="{{ ip.printlink }}">[print]</a>{% endif %}
     </p>
 </div>
 {% endfor %}
