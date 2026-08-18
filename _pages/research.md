@@ -6,15 +6,13 @@ classes			: wide
 author_profile	: true
 ---
 
-## Solution of Imaging Inverse Problems
-I am interested in both model-based and data-driven solutions of usually large-scale imaging inverse problems. Depending on the application, this includes the analysis of variational methods, PDEs, neural networks and efficient optimization algorithms.
+I have worked on both ends of computational imaging. The theoretical one first: physical forward models, variational methods, and the convergence analysis behind optimization and sampling algorithms. Now the other one, where images actually have three channels, models are far, far larger, and they have a release date attached. Both turn out to be the same job — making images look good.
 
-## Generative Algorithms and Uncertainty Quantification
-In an inverse problem, we need to be able to quantify the uncertainty in a reconstructed solution. Bayes' law provides a framework for that: we want to describe the posterior distribution. Accurately sampling from the posterior is notoriously hard in high dimensional applications. I am interested in sampling schemes that efficiently solve high-dimensional inverse problems. The analysis of Langevin Monte Carlo algorithms and their underlying SDEs has been a central interest of mine. Relatedly, for inverse problems with available training data I recently started working with other generative models based on score-based diffusion.
+## Generative Models and Uncertainty Quantification
+Reconstructing an image from indirect measurements gives you one answer to what caused the measurement; it does not tell you how much to trust it. Bayes' law frames that as describing a posterior distribution, which is notoriously hard to sample in high dimensions. Much of my PhD went into Langevin Monte Carlo algorithms, score based diffusion models and the SDEs underlying them.
 
-## Physical Modelling of Imaging Systems
-I work on mathematical tasks arising in imaging modalities, including for example CT and MRI, but also less known setups like Compton scattering tomography, Compton cameras or phase retrieval. In absence of training data, the successful solution of an inverse problem relies on a careful translation of physical principles into a mathematical forward model and further into efficient code. 
+## Inverse Problems and Physical Modelling
+I worked on both model-based and data-driven reconstruction for large-scale imaging problems -- variational methods, PDEs, neural networks and the optimization algorithms that make them tractable. Without training data, everything depends on translating physical principles into a faithful forward model and then into efficient code. The algorithms I developed were applied to ptychographic phase retrieval, gamma emission imaging for nuclear decommissioning, and Compton scattering tomography.
 
-## Miscellaneous
-Blog articles on recent applied mathematics research:\
-Being interested in the wide variety of applications of mathematics in sciences, technology and society, I sometimes write blog articles on recent research papers in the journal *European Journal of Applied Mathematics (EJAM)* by Cambridge University Press. Some of my recent articles featuring new papers can be found on the [EJAM blog](https://www.cambridge.org/core/blog/tag/ejam/).
+## Writing
+I wrote occasional blog articles on recent papers in the *European Journal of Applied Mathematics* (Cambridge University Press) -- these are collected on the [EJAM blog](https://www.cambridge.org/core/blog/tag/ejam/).
