@@ -8,6 +8,12 @@ $footer-background-color : #a3c1ad;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+/* The theme fades the author sidebar to 75% opacity on wide screens and only
+   brings it to full on hover. Keep it fully opaque at all times. */
+.sidebar {
+  opacity: 1;
+}
+
 /* CV date/description rows (used on the CV page in place of a markdown table) */
 .cv-list {
   margin-bottom: 2em;
